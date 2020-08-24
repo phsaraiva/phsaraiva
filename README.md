@@ -2,9 +2,18 @@
 
 ### Who am I?
 
-I'm a Project & PMO manajer with a vast experience in managing large and complex projects os industrial engineering in a wide range of business segments and management styles, such as automotive (Volvo), home appliances (Electrolux) and auto parts (Dunlop Tyres). I am also experienced in creation and management of Project Offices and have certifications Project and Risk Management granted by PMI.
+I'm a Project & PMO manajer with a vast experience in managing large and complex projects os industrial engineering in a wide range of business segments and management styles, such as automotive (Volvo), home appliances (Electrolux) and auto parts (Dunlop Tyres). I am also experienced in creation and management of Project Offices and have certifications in Project and Risk Management granted by PMI.
 
-I also become passionated about data science in 2020 and at this moment I'm giving my first steps as an aspiring Data Scientist. In this repository you will find my Data Science projects focused on Exploratory Data Analysis. At this moment, all of them were developed using Python and Jupyter Notebooks. 
+I also become passionated about Data Science in 2020 and at this moment I'm giving my first steps as an aspiring Data Scientist. In this repository you will find my Data Science projects focused on Exploratory Data Analysis. At this moment, all of them were developed using Python and Jupyter Notebooks. 
+
+Some projects were entirely developed on my own, and others were part of the missions I have to complete during my journey at Data Quest: [Data Scientist With Python Carrer Path](https://app.dataquest.io/path/data-scientist). This is a course composed by 36 different modules covering the fundamentals of Python for Data Science, Exploratory Data Analysis, Data Viz, SQL, APIs & Web Scrapping, Algebra, Statistics, Calculus, Machine Learning, and advanced topics such as Git & Version Control, Spark and Advanced Functions & Algorithms.
+
+## Contact:
+
+- Phone: +5541984786684
+- Mail: phssaraiva@gmail.com
+- Linkedin: [https://www.linkedin.com/in/phsaraiva/](https://www.linkedin.com/in/phsaraiva/)
+
 
 ## Exploratory Data Analysis Projects:
 

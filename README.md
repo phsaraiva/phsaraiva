@@ -6,7 +6,7 @@ I'm a Project & PMO manajer with a vast experience in managing large and complex
 
 I also become passionated about Data Science in 2020 and at this moment I'm giving my first steps in this field. In this repository you will find my Data Science projects focused on Exploratory Data Analysis. At this moment, all of them were developed using Python and Jupyter Notebooks. 
 
-My main focus is to develop Data Analyics solutions to be applied do PMO, Portfólio & Project management processes.
+My main focus is to develop Data Analyics solutions to be applied to Portfolio & Project management processes, as well other business strategy applications.
 
 ## Contact:
 
